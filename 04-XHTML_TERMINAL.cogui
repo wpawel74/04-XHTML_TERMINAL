@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/main.c" title="main.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1065" selectionTopPixel="448"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f1xx_hal_spi.h" partName="stm32f1xx_hal_spi.h" path="C:/CooCox/CoIDE/workspace/HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h" title="stm32f1xx_hal_spi.h" tooltip="C:/CooCox/CoIDE/workspace/HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="14570" selectionTopPixel="6293"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="ug2864_ll_template.h" partName="ug2864_ll_template.h" path="C:/CooCox/CoIDE/workspace/STM32_LIBRARIES/UG2864/ug2864_ll_template.h" title="ug2864_ll_template.h" tooltip="C:/CooCox/CoIDE/workspace/STM32_LIBRARIES/UG2864/ug2864_ll_template.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/ug2864_ll_template.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="ug2864_ll_template.c" partName="ug2864_ll_template.c" path="C:/CooCox/CoIDE/workspace/STM32_LIBRARIES/UG2864/ug2864_ll_template.c" title="ug2864_ll_template.c" tooltip="C:/CooCox/CoIDE/workspace/STM32_LIBRARIES/UG2864/ug2864_ll_template.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/STM32_LIBRARIES/UG2864/ug2864_ll_template.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2693" selectionTopPixel="1154"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="os_compat.h" partName="os_compat.h" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/os_compat.h" title="os_compat.h" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/os_compat.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/os_compat.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="759" selectionTopPixel="74"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="xhtml.c" partName="xhtml.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/xhtml.c" title="xhtml.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/xhtml.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/xhtml.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="122" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_a.c" partName="XHTML_GP_a.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_a.c" title="XHTML_GP_a.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_a.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_a.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="608" selectionTopPixel="397"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_p.c" partName="XHTML_GP_p.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_p.c" title="XHTML_GP_p.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_p.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_p.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="800" selectionTopPixel="1383"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_br.c" partName="XHTML_GP_br.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_br.c" title="XHTML_GP_br.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_br.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_br.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="15" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_form.c" partName="XHTML_GP_form.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_form.c" title="XHTML_GP_form.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_form.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_form.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="23" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_input.c" partName="XHTML_GP_input.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_input.c" title="XHTML_GP_input.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_input.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_input.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3626" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_li.c" partName="XHTML_GP_li.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_li.c" title="XHTML_GP_li.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_li.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_li.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="356" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_meta.c" partName="XHTML_GP_meta.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_meta.c" title="XHTML_GP_meta.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_meta.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_meta.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="42" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_option.c" partName="XHTML_GP_option.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_option.c" title="XHTML_GP_option.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_option.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_option.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="21" selectionTopPixel="57"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_select.c" partName="XHTML_GP_select.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_select.c" title="XHTML_GP_select.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_select.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_select.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="709" selectionTopPixel="1349"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_textarea.c" partName="XHTML_GP_textarea.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_textarea.c" title="XHTML_GP_textarea.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_textarea.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_textarea.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="21" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_title.c" partName="XHTML_GP_title.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_title.c" title="XHTML_GP_title.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_title.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_title.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="21" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_ul.c" partName="XHTML_GP_ul.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_ul.c" title="XHTML_GP_ul.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_ul.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_ul.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="78" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="roxml.h" partName="roxml.h" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.h" title="roxml.h" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1704" selectionTopPixel="601"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="roxml.c" partName="roxml.c" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.c" title="roxml.c" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="10809" selectionTopPixel="8829"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="roxml-internal.h" partName="roxml-internal.h" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml-internal.h" title="roxml-internal.h" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml-internal.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml-internal.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="257"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="xhtml_gp.h" partName="xhtml_gp.h" path="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/xhtml_gp.h" title="xhtml_gp.h" tooltip="C:/CooCox/CoIDE/workspace/04-XHTML_TERMINAL/src/XHTML_GP/xhtml_gp.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/04-XHTML_TERMINAL/src/XHTML_GP/xhtml_gp.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="40" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.debug.ui.ExpressionView" partName="Expressions">
+<viewState>
+<ExpressionKeySet ExpKeys="strstr( url, &quot;ip=&quot; ),"/>
+</viewState>
+</view>
+<view id="org.coocox.component.ui.ComponentView" partName="Components">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.MemoryView" partName="Memory">
+<viewState/>
+</view>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="0">
+<expanded>
+<element path="/04-XHTML_TERMINAL"/>
+<element path="/04-XHTML_TERMINAL/src"/>
+<element path="/04-XHTML_TERMINAL/src/XHTML_GP"/>
+<element path="/04-XHTML_TERMINAL/src/XHTML_GP/objects"/>
+<element path="/04-XHTML_TERMINAL/STM32_LIBRARIES"/>
+</expanded>
+<selection>
+<element path="/04-XHTML_TERMINAL"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="3" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
+<view IMemento.internal.id="org.eclipse.cdt.ui.pdomSearchViewPage" definitionColumnWidth="150" locationColumnWidth="300" matchColumnWidth="300" org.eclipse.search.lastActivation="2" org.eclipse.search.resultpage.layout="2" showEnclosingDefinitions="true"/>
+</viewState>
+</view>
+<view id="org.coocox.codebugger.trace.ui.traceview" partName="Semihosting">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.cdt.dsf.debug.ui.disassembly.view" partName="Disassembly">
+<viewState disassembly.syncActiveContext="true" disassembly.trackExpression="false"/>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.coocox.builder.ui.views.ProjectView" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@bd9add" orientation="256" selectedTabId="org.coocox.component.ui.ComponentView" style="0">
+<fastViews>
+<view id="org.coocox.component.ui.ComponentView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="org.eclipse.ui.internal.ViewStack@2e3086" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.29895365"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@bd9add">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="951" ratioRight="317" relationship="2" relative="org.eclipse.ui.internal.ViewStack@bd9add">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@2e3086" ratio="0.6995516" ratioLeft="468" ratioRight="201" relationship="4" relative="org.eclipse.ui.internal.ViewStack@bd9add">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.coocox.builder.ui.exampleView" ratio="0.2192429" ratioLeft="278" ratioRight="990" relationship="2" relative="org.eclipse.ui.internal.ViewStack@bd9add"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@77fcec" ratio="0.7191919" ratioLeft="712" ratioRight="278" relationship="2" relative="org.coocox.builder.ui.exampleView">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44992527" ratioLeft="301" ratioRight="368" relationship="4" relative="org.coocox.builder.ui.exampleView"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@145f18f" ratio="0.5" ratioLeft="495" ratioRight="495" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@2621f" ratio="0.36920777" ratioLeft="247" ratioRight="422" relationship="4" relative="org.eclipse.ui.internal.ViewStack@bd9add">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.codebugger.configuration.ui.Perspective" id="org.coocox.codebugger.configuration.perspective" label="CoDebugger"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFolder"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_menu_item_id id="org.eclipse.ui.file.save"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAll"/>
+<hide_menu_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openFile"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAs"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.projectMenu"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.flashMenu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.debug"/>
+<hide_menu_item_id id="org.coocox.builder.ui.showHelpViewAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_menu_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.build"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_menu_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.TargetManageAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newProject"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_toolbar_item_id id="org.eclipse.ui.file.save"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideFlashEraseAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.debug"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.build"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideProgramDownloadAction"/>
+<hide_toolbar_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="org.coocox.codebugger.trace.ui.traceview"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.debug.ui.MemoryView"/>
+<view id="org.eclipse.debug.ui.ExpressionView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<view id="org.eclipse.cdt.dsf.debug.ui.disassembly.view"/>
+<fastViewBars/>
+<viewLayoutRec closeable="false" id="org.eclipse.debug.ui.DebugView"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@1b49036">&#x0A;<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="972" ratioRight="324" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1b49036">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1272bf9" ratio="0.6606607" ratioLeft="440" ratioRight="226" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1b49036">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@b7f13b" ratio="0.5" ratioLeft="648" ratioRight="648" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1272bf9">&#x0A;<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">&#x0A;<page content="org.coocox.codebugger.trace.ui.traceview" label="Semihosting"/>
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.debug.ui.MemoryView" label="Memory"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="Expressions"/>
+<page content="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@3e6a4b" ratio="0.75" ratioLeft="972" ratioRight="324" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1b49036">&#x0A;<folder activePageID="org.eclipse.cdt.dsf.debug.ui.disassembly.view" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="Disassembly"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView_debug" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.29938272" ratioLeft="291" ratioRight="681" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1b49036"/>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/STM32_LIBRARIES/UG2864/ug2864.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/STM32_LIBRARIES/UG2864/ug2864.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/os_compat.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/defines.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/xhtml.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_a.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_p.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_br.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_form.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_input.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_li.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_meta.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_option.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_select.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_textarea.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_title.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_ul.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml-internal.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/04-XHTML_TERMINAL/src/XHTML_GP/xhtml_gp.h"/>
+<editor factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor">
+<org.coocox.builder.ui.editors.ConfigEditor/>
+</editor>
+</editors>
+<item historyLabel="ug2864.c" index="0">
+<position info="not_deleted" x="25520" y="0"/>
+</item>
+<item historyLabel="ug2864.h" index="1">
+<position info="not_deleted" x="2534" y="0"/>
+</item>
+<item historyLabel="os_compat.h" index="3">
+<position info="not_deleted" x="759" y="0"/>
+</item>
+<item historyLabel="main.c" index="2">
+<position info="not_deleted" x="1065" y="0"/>
+</item>
+<item historyLabel="defines.h" index="4">
+<position info="not_deleted" x="2030" y="0"/>
+</item>
+<item historyLabel="main.c" index="2">
+<position info="not_deleted" x="1065" y="0"/>
+</item>
+<item historyLabel="xhtml.c" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_a.c" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_p.c" index="7">
+<position info="not_deleted" x="23" y="0"/>
+</item>
+<item historyLabel="os_compat.h" index="3">
+<position info="not_deleted" x="759" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_p.c" index="7">
+<position info="not_deleted" x="23" y="0"/>
+</item>
+<item historyLabel="xhtml.c" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_a.c" index="6">
+<position info="not_deleted" x="21" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_br.c" index="8">
+<position info="not_deleted" x="15" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_a.c" index="6">
+<position info="not_deleted" x="21" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_form.c" index="9">
+<position info="not_deleted" x="23" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_input.c" index="10">
+<position info="not_deleted" x="3626" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_li.c" index="11">
+<position info="not_deleted" x="356" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_input.c" index="10">
+<position info="not_deleted" x="3626" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_form.c" index="9">
+<position info="not_deleted" x="23" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_br.c" index="8">
+<position info="not_deleted" x="15" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_a.c" index="6">
+<position info="not_deleted" x="608" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_meta.c" index="12">
+<position info="not_deleted" x="42" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_option.c" index="13">
+<position info="not_deleted" x="21" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_p.c" index="7">
+<position info="not_deleted" x="800" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_select.c" index="14">
+<position info="not_deleted" x="709" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_textarea.c" index="15">
+<position info="not_deleted" x="21" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_title.c" index="16">
+<position info="not_deleted" x="21" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_ul.c" index="17">
+<position info="not_deleted" x="78" y="0"/>
+</item>
+<item historyLabel="roxml.h" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="roxml.c" index="19">
+<position info="not_deleted" x="178" y="0"/>
+</item>
+<item historyLabel="XHTML_GP_ul.c" index="17">
+<position info="not_deleted" x="78" y="0"/>
+</item>
+<item historyLabel="roxml.c" index="19">
+<position info="not_deleted" x="1011" y="0"/>
+</item>
+<item historyLabel="roxml.h" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="roxml-internal.h" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="roxml.h" index="18">
+<position info="not_deleted" x="1671" y="0"/>
+</item>
+<item historyLabel="roxml.c" index="19">
+<position info="not_deleted" x="7051" y="0"/>
+</item>
+<item historyLabel="roxml.h" index="18">
+<position info="not_deleted" x="1704" y="0"/>
+</item>
+<item historyLabel="roxml-internal.h" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="roxml.h" index="18">
+<position info="not_deleted" x="1704" y="0"/>
+</item>
+<item historyLabel="roxml.c" index="19">
+<position info="not_deleted" x="1018" y="0"/>
+</item>
+<item historyLabel="xhtml.c" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="roxml-internal.h" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="roxml.c" index="19">
+<position info="not_deleted" x="10809" y="0"/>
+</item>
+<item historyLabel="xhtml.c" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="xhtml_gp.h" index="21">
+<position info="not_deleted" x="40" y="0"/>
+</item>
+<item historyLabel="xhtml.c" index="5">
+<position info="not_deleted" x="122" y="8"/>
+</item>
+<item historyLabel="XHTML_GP_input.c" index="10">
+<position info="not_deleted" x="3626" y="0"/>
+</item>
+<item historyLabel="Configuration" index="22"/>
+<item active="true" historyLabel="XHTML_GP_input.c" index="10">
+<position info="not_deleted" x="3626" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.builder.ui.editors.ConfigEditor" name="" tooltip="">
+<persistable>
+<org.coocox.builder.ui.editors.ConfigEditor/>
+</persistable>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="xhtml_gp.h" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/xhtml_gp.h">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/xhtml_gp.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="roxml-internal.h" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml-internal.h">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml-internal.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="roxml.c" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.c">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="roxml.h" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.h">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/libroxml/roxml.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_ul.c" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_ul.c">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_ul.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_title.c" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_title.c">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_title.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_textarea.c" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_textarea.c">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_textarea.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_select.c" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_select.c">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_select.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_option.c" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_option.c">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_option.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_meta.c" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_meta.c">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_meta.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_li.c" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_li.c">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_li.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_input.c" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_input.c">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_input.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_form.c" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_form.c">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_form.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="XHTML_GP_br.c" tooltip="04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_br.c">
+<persistable path="/04-XHTML_TERMINAL/src/XHTML_GP/objects/XHTML_GP_br.c"/>
+</file>
+</mruList>
+</workbench>
