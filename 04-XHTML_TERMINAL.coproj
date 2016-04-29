@@ -90,15 +90,16 @@
     <File name="CMSIS/Include/core_cmSimd.h" path="../CMSIS/Include/core_cmSimd.h" type="1"/>
     <File name="CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h" path="../CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h" type="1"/>
     <File name="STM32_LIBRARIES/tm_stm32_rcc.h" path="../STM32_LIBRARIES/tm_stm32_rcc.h" type="1"/>
+    <File name="src/XHTML_GP/fonts/font12.c" path="src/XHTML_GP/fonts/font12.c" type="1"/>
     <File name="CMSIS" path="" type="2"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h" type="1"/>
     <File name="cmsis_boot/stm32f10x.h" path="cmsis_boot/stm32f10x.h" type="1"/>
     <File name="CMSIS/Include/core_cmFunc.h" path="../CMSIS/Include/core_cmFunc.h" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c" type="1"/>
     <File name="cmsis_boot/stm32f10x_conf.h" path="cmsis_boot/stm32f10x_conf.h" type="1"/>
+    <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h" type="1"/>
     <File name="uSTDIO_LIBRARIES/printf.c" path="../uSTDIO_LIBRARIES/printf.c" type="1"/>
     <File name="CMSIS/Device/ST/STM32F1xx/Include/stm32f105xc.h" path="../CMSIS/Device/ST/STM32F1xx/Include/stm32f105xc.h" type="1"/>
-    <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h" type="1"/>
     <File name="STM32_LIBRARIES/tm_stm32_i2c.h" path="../STM32_LIBRARIES/tm_stm32_i2c.h" type="1"/>
     <File name="CMSIS/Include/core_cm0plus.h" path="../CMSIS/Include/core_cm0plus.h" type="1"/>
     <File name="src/XHTML_GP/objects" path="" type="2"/>
@@ -113,6 +114,7 @@
     <File name="src/stm32fxxx_it.c" path="src/stm32fxxx_it.c" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c" type="1"/>
     <File name="CMSIS/Device/ST/STM32F1xx" path="" type="2"/>
+    <File name="src/XHTML_GP/fonts/font24.c" path="src/XHTML_GP/fonts/font24.c" type="1"/>
     <File name="src/XHTML_GP/GL/drm.h" path="src/XHTML_GP/GL/drm.h" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h" type="1"/>
     <File name="CMSIS/Device/ST/STM32F1xx/Include/stm32f101x6.h" path="../CMSIS/Device/ST/STM32F1xx/Include/stm32f101x6.h" type="1"/>
@@ -121,12 +123,14 @@
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h" type="1"/>
     <File name="CMSIS/Device/ST/STM32F1xx/Include/stm32f103x6.h" path="../CMSIS/Device/ST/STM32F1xx/Include/stm32f103x6.h" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c" type="1"/>
-    <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h" type="1"/>
     <File name="CMSIS/Device/ST/STM32F1xx/Include" path="" type="2"/>
+    <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h" type="1"/>
     <File name="src/XHTML_GP/libroxml/roxml.c" path="src/XHTML_GP/libroxml/roxml.c" type="1"/>
     <File name="STM32_LIBRARIES/tm_stm32_delay.c" path="../STM32_LIBRARIES/tm_stm32_delay.c" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h" type="1"/>
+    <File name="src/XHTML_GP/fonts/fonts.h" path="src/XHTML_GP/fonts/fonts.h" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi_ex.c" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi_ex.c" type="1"/>
+    <File name="src/XHTML_GP/fonts/font8.c" path="src/XHTML_GP/fonts/font8.c" type="1"/>
     <File name="src/defines.h" path="src/defines.h" type="1"/>
     <File name="src/ENC28J60_STM32Fxxx/enc28j60_ll.c" path="src/ENC28J60_STM32Fxxx/enc28j60_ll.c" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h" type="1"/>
@@ -149,11 +153,13 @@
     <File name="src/XHTML_GP/objects/XHTML_GP_a.c" path="src/XHTML_GP/objects/XHTML_GP_a.c" type="1"/>
     <File name="src/XHTML_GP/GL/GL.h" path="src/XHTML_GP/GL/GL.h" type="1"/>
     <File name="uSTDIO_LIBRARIES" path="" type="2"/>
+    <File name="src/XHTML_GP/fonts" path="" type="2"/>
     <File name="CMSIS/Device/ST/STM32F1xx/Include/stm32f102xb.h" path="../CMSIS/Device/ST/STM32F1xx/Include/stm32f102xb.h" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h" type="1"/>
     <File name="cmsis_boot" path="" type="2"/>
     <File name="STM32_LIBRARIES" path="" type="2"/>
+    <File name="src/XHTML_GP/fonts/font20.c" path="src/XHTML_GP/fonts/font20.c" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c" type="1"/>
     <File name="CMSIS/Include/core_sc300.h" path="../CMSIS/Include/core_sc300.h" type="1"/>
@@ -165,9 +171,9 @@
     <File name="src/os_compat.h" path="src/os_compat.h" type="1"/>
     <File name="CMSIS/Include/arm_math.h" path="../CMSIS/Include/arm_math.h" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Src" path="" type="2"/>
-    <File name="CMSIS/Include/core_cm0.h" path="../CMSIS/Include/core_cm0.h" type="1"/>
-    <File name="STM32_LIBRARIES/UG2864" path="" type="2"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c" type="1"/>
+    <File name="STM32_LIBRARIES/UG2864" path="" type="2"/>
+    <File name="CMSIS/Include/core_cm0.h" path="../CMSIS/Include/core_cm0.h" type="1"/>
     <File name="src/XHTML_GP/objects/XHTML_GP_title.c" path="src/XHTML_GP/objects/XHTML_GP_title.c" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver" path="" type="2"/>
     <File name="STM32_LIBRARIES/tm_stm32_usart.h" path="../STM32_LIBRARIES/tm_stm32_usart.h" type="1"/>
@@ -176,6 +182,7 @@
     <File name="src/XHTML_GP/objects/XHTML_GP_meta.c" path="src/XHTML_GP/objects/XHTML_GP_meta.c" type="1"/>
     <File name="src/XHTML_GP/objects/XHTML_GP_textarea.c" path="src/XHTML_GP/objects/XHTML_GP_textarea.c" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c" type="1"/>
+    <File name="src/XHTML_GP/fonts/font16.c" path="src/XHTML_GP/fonts/font16.c" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h" type="1"/>
     <File name="src/XHTML_GP/xhtml.c" path="src/XHTML_GP/xhtml.c" type="1"/>
@@ -204,7 +211,6 @@
     <File name="src/XHTML_GP/objects/XHTML_GP_input.c" path="src/XHTML_GP/objects/XHTML_GP_input.c" type="1"/>
     <File name="src/XHTML_GP/objects/XHTML_GP_select.c" path="src/XHTML_GP/objects/XHTML_GP_select.c" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c" type="1"/>
-    <File name="src/ug2864_ll_template.h" path="../STM32_LIBRARIES/UG2864/ug2864_ll_template.h" type="1"/>
     <File name="HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c" path="../HAL_DRIVERS/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c" type="1"/>
     <File name="CMSIS/Device/ST/STM32F1xx/Include/stm32f100x8.h" path="../CMSIS/Device/ST/STM32F1xx/Include/stm32f100x8.h" type="1"/>
     <File name="STM32_LIBRARIES/tm_stm32_general.h" path="../STM32_LIBRARIES/tm_stm32_general.h" type="1"/>

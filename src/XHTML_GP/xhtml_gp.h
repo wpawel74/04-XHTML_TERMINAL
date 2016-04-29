@@ -1,3 +1,28 @@
+/**
+ * @author  Pawel Wisniewski
+ * @email   w_pawel74@tlen.pl
+ * @version v1.0
+ * @ide     CooCox
+ * @license GNU GPL v3
+ * @brief   Library for XHTML Gigaset Profile
+ *
+\verbatim
+   ----------------------------------------------------------------------
+    Copyright (C) Pawel Wisniewski, 2016
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+   ----------------------------------------------------------------------
+\endverbatim
+ */
 #ifndef XHTML_GP_H
 #define XHTML_GP_H
 #include "os_compat.h"
@@ -58,5 +83,10 @@ void XHTML_GP_option_DRAW( GL *nGL, node_t *xml_node );
 struct XHTML_GP_OBJ_SELECT;
 void XHTML_GP_select_prev( struct XHTML_GP_OBJ_SELECT *obj );
 void XHTML_GP_select_next( struct XHTML_GP_OBJ_SELECT *obj );
+
+/**
+ * load XHTML GP source
+ */
+void XHTML_GP_load( const char *xhtml_gp );
 
 #endif /* XHTML_GP_H */

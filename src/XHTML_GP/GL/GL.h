@@ -1,13 +1,35 @@
+/**
+ * @author  Pawel Wisniewski
+ * @email   w_pawel74@tlen.pl
+ * @version v1.0
+ * @ide     CooCox
+ * @license GNU GPL v3
+ * @brief   Graphics Library for XHTML Gigaset Profile
+ *
+\verbatim
+   ----------------------------------------------------------------------
+    Copyright (C) Pawel Wisniewski, 2016
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+   ----------------------------------------------------------------------
+\endverbatim
+ */
 #ifndef GL_H
 #define GL_H
 #include "os_compat.h"
 #include "drm.h"
+#include "fonts.h"
 
-typedef struct GL_FONT {
-	int				Height;		// height
-	int				Width;		// width (NOTE: xxx)
-	const char		*Data;		// handler to binaries
-} GL_FONT;
+typedef sFONT GL_FONT;
 
 typedef enum STYLE {
 	ALIGN_LEFT			= 0x0000,

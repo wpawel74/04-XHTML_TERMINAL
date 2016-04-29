@@ -1,3 +1,18 @@
+/**
+ * |----------------------------------------------------------------------
+ * | Copyright (C) Pawel Wisniewski, 2016
+ * |
+ * | This program is free software: you can redistribute it and/or modify
+ * | it under the terms of the GNU General Public License as published by
+ * | the Free Software Foundation, either version 3 of the License, or
+ * | any later version.
+ * |
+ * | This program is distributed in the hope that it will be useful,
+ * | but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * | MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * | GNU General Public License for more details.
+ * |----------------------------------------------------------------------
+ */
 #include "GL.h"
 #include "os_compat.h"
 #include "xhtml_gp.h"
@@ -28,7 +43,14 @@ static int GL_getFontHeight( const GL_FONT *font ){
  * \retval (const char *)	binary representation
  */
 static const char* GL_getCharData( char c, const GL_FONT *font ){
-	return  font->Data + (((unsigned char)c - 32) * font->Height );
+	return  font->table + (((unsigned char)c - 32) * font->Height );
+}
+
+GL* GL_getHandler(void){
+	static GL _GL = { .style = { .font = &Font8, .style = ALIGN_LEFT | FONT_NORMAL },
+					  .coord = { .X = 0, .Y = 0 },
+					  .drm = NULL };
+	return &_GL;
 }
 
 void GL_setStyle( GL *nGL, GL_STYLE style ){
@@ -103,12 +125,14 @@ void GL_drawText( GL *nGL, const char *text, int len, struct XHTML_GP_BASE *b ){
 		do {
 			c_width = GL_getCharWidth( *text_ptr, nGL->style.font );
 
-			if( text_ptr == ' ' )
-				text_stop = text_ptr;
-
 			if( width + c_width < nGL->drm->width ){
 				width += c_width;
 				xlen++;
+
+				if( *text_ptr == ' ' )
+					text_stop = text_ptr;
+
+				text_ptr++;
 			} else {
 				if( text_stop != text_begin )
 					xlen = text_stop - text_begin;
